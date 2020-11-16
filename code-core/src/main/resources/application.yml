@@ -2,7 +2,7 @@
 # dataSource
 spring:
   datasource:
-    driver-class-name: com.mysql.cj.jdbc.Driver
+    driver-class-name: com.mysql.jdbc.Driver
     username: root
     password: root
     url: jdbc:mysql://myserver:8505/mydb?useSSL=false&serverTimezone=GMT%2B8&characterEncoding=UTF-8

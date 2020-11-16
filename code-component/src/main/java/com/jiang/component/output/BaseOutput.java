@@ -1,4 +1,4 @@
-package com.jiang.component.entity;
+package com.jiang.component.output;
 
 import lombok.NoArgsConstructor;
 
@@ -10,8 +10,8 @@ import java.io.Serializable;
  * @description
  **/
 @NoArgsConstructor
-public class BaseEntity implements Serializable {
+public class BaseOutput implements Serializable {
 
-    private static final long serialVersionUID = 4517302417993024038L;
+    private static final long serialVersionUID = 6708235789258748707L;
 
 }
