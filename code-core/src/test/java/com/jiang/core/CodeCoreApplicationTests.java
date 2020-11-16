@@ -1,13 +1,13 @@
-package com.jiang;
+package com.jiang.core;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CodeTemplateApplicationTests {
+class CodeCoreApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
